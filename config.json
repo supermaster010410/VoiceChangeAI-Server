@@ -1,0 +1,7 @@
+{
+    "host_address": "192.168.80.162",
+    "host_port": 9432,
+    "buffer_size": 65536,
+    "sample_rate": 44100,
+    "frequency": 220
+}
